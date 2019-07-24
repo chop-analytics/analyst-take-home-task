@@ -1,7 +1,9 @@
-# Data-Exercise
+# Data Exercise
 
-In the Datasets folder, you will find 5 datasets that are included with your assessment. 
+Everything you need to complete this exercise is contained here.
 
-The Data Dictionary can be used to understand the datasets and their metrics better.
-
-The Data Exercise Instructions will serve as your guide to completing this assessment. 
+| File | Description |
+|------|-------------|
+| [`data-exercise-instructions.md`](data-exercise-instructions.md) | Your guide to completing this assessment |
+| [`data-dictionary.xlsx`](data-dictionary.xlsx) | Used to help you understand the datasets and their metrics |
+| [`/datasets`](datasets) | 5 datasets that are included with your assessment 
