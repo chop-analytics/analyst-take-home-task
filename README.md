@@ -6,7 +6,8 @@ This exercise will evaluate your ability to build a cohort of patients and calcu
 
 - [5 datasets](datasets) (all data you need is found within the provided datasets)
 - [A data dictionary](data-dictionary.xlsx) defining each dataset and its fields
-- (Optional) [SQL setup instructions](sql-setup) for help loading the DDL and data into a database if doing the exercise in SQL
+
+If you would like to use a database for this exercise, [use these instructions](sql-setup) to set up a local Postgres database. Otherwise, you can load the datasets with your programming language of choice.
 
 ## Instructions
 
