@@ -44,7 +44,7 @@ Export a dataset containing these required fields:
 | `COUNT_CURRENT_MEDS`      | Count of active medications at the time of the drug overdose encounter                          | Num              |
 | `CURRENT_OPIOID_IND`      | if the patient had at least one active medication at the time of the overdose encounter that is on the Opioids List (provided below)     | 0/1              |
 | `READMISSION_90_DAY_IND`  | Indicator if the visit resulted in a subsequent readmission within 90 days     | 0/1              |
-| `READMISSION_30_DAY_IND`  | Indicator if the visit resulted in a subsequent readmission within 90 days     | 0/1              |
+| `READMISSION_30_DAY_IND`  | Indicator if the visit resulted in a subsequent readmission within 30 days     | 0/1              |
 | `FIRST_READMISSION_DATE`  | Date of the first readmission for drug overdose within 90 days. Leave `N/A` if no readmissions for drug overdose within 90 days. | Date/time        |
 
 ## Opioids List:
