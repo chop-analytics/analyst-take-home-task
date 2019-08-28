@@ -51,7 +51,7 @@ Export a dataset containing these required fields:
 
 ## Opioids List:
 
-- Hydromorphone 325Ml
+- Hydromorphone 325Mg
 - Fentanyl – 100 MCG
 - Oxycodone-acetaminophen 100 Ml
 
