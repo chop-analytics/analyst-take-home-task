@@ -27,7 +27,7 @@ With your drug overdose encounter, create the following indicators:
 
 1. `DEATH_AT_VISIT_IND`: `1` if patient died during the drug overdose encounter, `0` if the patient died at a different time
 2. `COUNT_CURRENT_MEDS`: Count of active medications at the start of the drug overdose encounter
-3. `CURRENT_OPIOID_IND`: `1` if the patient had at least one active medication at the start of the overdose encounter that is on the Opioids List (provided below), 0 if not
+3. `CURRENT_OPIOID_IND`: `1` if the patient had at least one active medication at the start of the overdose encounter that is on the Opioids List (provided below), 0 if not 
 4. `READMISSION_90_DAY_IND`: `1` if the visit resulted in a subsequent drug overdose readmission within 90 days, 0 if not 
 5. `READMISSION_30_DAY_IND`: `1` if the visit resulted in a subsequent drug overdose readmission within 30 days, 0 if not overdose encounter, `0` if not
 6. `FIRST_READMISSION_DATE`: The date of the index visit's first readmission for drug overdose. Field should be left as `N/A` if no readmission for drug overdose within 90 days
