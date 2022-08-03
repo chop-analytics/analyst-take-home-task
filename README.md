@@ -11,6 +11,8 @@ If you would like to use a database for this exercise, [use these instructions](
 
 ## Instructions
 
+We encourage you to put the data ingest and export as part of a re-usable analysis script. This makes it easier for us to re-run your code in our evaluations, and it's good coding practice!
+
 ### Part 1: Assemble the project cohort
 
 The project goal is to identify patients seen for drug overdose, determine if they had an active opioid at the start of the encounter, and if they had any readmissions for drug overdose.
