@@ -7,11 +7,9 @@ This exercise will evaluate your ability to build a cohort of patients and calcu
 - [5 datasets](datasets) (all data you need is found within the provided datasets)
 - [A data dictionary](data-dictionary.xlsx) defining each dataset and its fields
 
-If you would like to use a database for this exercise, [use these instructions](sql-setup) to set up a local Postgres database. Otherwise, you can load the datasets with your programming language of choice.
-
 ## Instructions
 
-We encourage you to put the data ingest and export as part of a re-usable analysis script. This makes it easier for us to re-run your code in our evaluations, and it's good coding practice!
+We encourage you to put the data ingest and export as part of a re-usable analysis script. Examples of different functions that can be used are found [here](data-import-setup). This makes it easier for us to re-run your code in our evaluations, and it's good coding practice!
 
 ### Part 1: Assemble the project cohort
 
