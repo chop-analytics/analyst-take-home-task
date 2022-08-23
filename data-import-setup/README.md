@@ -19,6 +19,8 @@ select *
     from read_csv_auto('~/analyst-take-home-task/datasets/encounters.csv', SAMPLE_SIZE = -1)
 ```
 
+For more detailed instructions on setting up duckdb with dbeaver, click [here](duckdb_setup.md)
+
 ## Python
 
 ```python
